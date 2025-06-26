@@ -1,0 +1,1 @@
+export type Operation = 'sum' | 'sub' | 'mul' | 'div'
